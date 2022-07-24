@@ -39,6 +39,6 @@ These results indicate that top defenses have kept opponent’s 3P% around 34-36
 
 **Conclusions:**
 The data from this analysis provide three clear insights into the nature of NBA play.
-    1. 3P shots have become much more common
-    2. Despite the prevalence of 3P shots, they have not broken the game. FG shots remain essential to success in the league, and teams cannot rise to the top if they neglect FG shots.
-    3. Teams have not generally responded to the increased use of the 3P shot with effective defensive play. The percentage of attempted 3P shots that are successful has not changed significantly, indicating an inability for teams to shut down this shot.
+1. 3P shots have become much more common
+2. Despite the prevalence of 3P shots, they have not broken the game. FG shots remain essential to success in the league, and teams cannot rise to the top if they neglect FG shots.
+3. Teams have not generally responded to the increased use of the 3P shot with effective defensive play. The percentage of attempted 3P shots that are successful has not changed significantly, indicating an inability for teams to shut down this shot.
